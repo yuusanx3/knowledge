@@ -1,5 +1,3 @@
-# アプリ開発
+# ようこそ
 
-## Python
-
-# その他
+ナレッジは[Wiki](https://github.com/yuusanx3/knowledge/wiki)へ
