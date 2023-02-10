@@ -1,3 +1,3 @@
 # ようこそ
 
-ナレッジは[Wiki](https://github.com/yuusanx3/knowledge/wiki)へ
+記事は[Wiki](https://github.com/yuusanx3/knowledge/wiki)へ
